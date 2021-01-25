@@ -1,0 +1,24 @@
+{
+  "name": "MSProfessorSDK",
+  "version": "0.0.2",
+  "summary": "MSProfessorSDK 插件",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/7General",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanghuizhou21@163.com": "wanghuizhou@guazi.com"
+  },
+  "source": {
+    "http": "http://localhost/frameworks/MSProfessorSDK/0.0.2/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bin_MSProfessorSDK_0.0.2/Headers/*",
+  "public_header_files": "bin_MSProfessorSDK_0.0.2/Headers/*.h",
+  "vendored_libraries": "bin_MSProfessorSDK_0.0.2/*.a"
+}
